@@ -1,19 +1,26 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Welcome to Wild West Hotel | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+More fun and playful Wild West! Here is another track for fun and enjoyment.
 
 ```
-#electronicmusic #soundtrack
+#country #soundtrack #violin #melodic #uplifting #lively
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/06_Welcome-to-Wild-West-Hotel.mp3
+  Size: 11976704        Blocks: 23392      IO Block: 4096   regular file
+Device: 253,2   Inode: 40765292    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-12 13:39:29.254299219 +0800
+Modify: 2025-11-12 13:38:50.702113576 +0800
+Change: 2025-11-12 13:38:50.702113576 +0800
+ Birth: 2025-09-05 10:20:24.624088726 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-09-05
+On YouTube since : 2025-09-05
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=-Ut-fmo5wI8)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +53,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Welcome to Wild West Hotel
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-welcome-to-wild-west-hotel
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
