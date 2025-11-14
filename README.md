@@ -9,9 +9,7 @@ More fun and playful Wild West! Here is another track for fun and enjoyment.
 
   File: Audios/06_Welcome-to-Wild-West-Hotel.mp3
   Size: 11976704        Blocks: 23392      IO Block: 4096   regular file
-Device: 253,2   Inode: 40765292    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-12 13:39:29.254299219 +0800
+Access: 2025-11-14 08:04:59.283791027 +0800
 Modify: 2025-11-12 13:38:50.702113576 +0800
 Change: 2025-11-12 13:38:50.702113576 +0800
  Birth: 2025-09-05 10:20:24.624088726 +0800
@@ -53,11 +51,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Welcome to Wild West Hotel
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-welcome-to-wild-west-hotel
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Welcome to Wild West Hotel
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-welcome-to-wild-west-hotel
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-09-05 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-hotel
 --------------------------------------------------------------------------------
 ```
 
